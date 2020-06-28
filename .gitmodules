@@ -1,0 +1,6 @@
+[submodule "lyric-get-js"]
+	path = lyric-get-js
+	url = https://github.com/franklai/lyric-get-js.git
+[submodule "modules/lyric-get-js"]
+	path = modules/lyric-get-js
+	url = https://github.com/franklai/lyric-get-js.git

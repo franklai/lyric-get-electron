@@ -33,6 +33,6 @@
     }
   },
   "dependencies": {
-    "lyric-get-engine": "file:../lyric_engine_js"
+    "lyric-get-engine": "file:modules/lyric-get-js/lyric_engine_js"
   }
 }

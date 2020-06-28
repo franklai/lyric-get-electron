@@ -1215,7 +1215,7 @@ lru_map@0.3.3:
   resolved "https://registry.yarnpkg.com/lru_map/-/lru_map-0.3.3.tgz#b5c8351b9464cbd750335a79650a0ec0e56118dd"
   integrity sha1-tcg1G5Rky9dQM1p5ZQoOwOVhGN0=
 
-"lyric-get-engine@file:../lyric_engine_js":
+"lyric-get-engine@file:modules/lyric-get-js/lyric_engine_js":
   version "1.0.0"
   dependencies:
     "@sentry/node" "^5.4.3"
