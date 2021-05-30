@@ -1,7 +1,7 @@
 {
   "name": "lyric-get-electron",
   "productName": "Lyric Get",
-  "version": "2021.04.03",
+  "version": "2021.05.30",
   "description": "Desktop client to Lyric Get service",
   "main": "main.js",
   "scripts": {
