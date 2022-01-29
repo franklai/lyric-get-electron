@@ -2,7 +2,7 @@ const path = require("path");
 const electron = require("electron");
 // Module to control application life.
 const { app, BrowserWindow, shell, ipcMain } = electron;
-const engine = require("lyric-get-engine");
+const engine = require("lyric-get-js");
 // Module to create native browser window.
 
 // Keep a global reference of the window object, if you don't, the window will

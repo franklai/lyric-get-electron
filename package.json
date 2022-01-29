@@ -33,6 +33,6 @@
     }
   },
   "dependencies": {
-    "lyric-get-engine": "file:modules/lyric-get-js"
+    "lyric-get-js": "https://github.com/franklai/lyric-get-js"
   }
 }
