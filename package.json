@@ -32,11 +32,7 @@
       "category": "public.app-category.utilities"
     }
   },
-  "resolutions": {
-    "plist": "^3.0.5"
-  },
   "dependencies": {
-    "lyric-get-js": "https://github.com/franklai/lyric-get-js",
-    "plist": "^3.0.5"
+    "lyric-get-js": "https://github.com/franklai/lyric-get-js"
   }
 }
