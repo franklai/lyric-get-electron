@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/franklai/lyric-get-electron/",
   "devDependencies": {
-    "electron": "^22.0.0",
-    "electron-builder": "^23.6.0"
+    "electron": "^27.1.0",
+    "electron-builder": "^24.6.4"
   },
   "build": {
     "appId": "com.blogspot.franklai-lyric-get",
