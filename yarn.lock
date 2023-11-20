@@ -1172,7 +1172,7 @@ lru_map@^0.3.3:
 
 "lyric-get-js@https://github.com/franklai/lyric-get-js":
   version "2022.4.24"
-  resolved "https://github.com/franklai/lyric-get-js#46ab6815366cd7d2c44b340eea0c32473a95467f"
+  resolved "https://github.com/franklai/lyric-get-js#87cf5b32abe43e4a4d7674c9fa5f1a14c379bc3c"
   dependencies:
     "@sentry/node" "^7.23.0"
     html-entities "^2.3.2"
