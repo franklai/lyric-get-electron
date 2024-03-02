@@ -1,7 +1,7 @@
 {
   "name": "lyric-get-electron",
   "productName": "Lyric Get",
-  "version": "2023.11.20",
+  "version": "2024.03.02",
   "description": "Desktop client to Lyric Get service",
   "main": "main.js",
   "scripts": {
@@ -29,7 +29,8 @@
       "target": "nsis"
     },
     "mac": {
-      "category": "public.app-category.utilities"
+      "category": "public.app-category.utilities",
+      "target": "pkg"
     }
   },
   "dependencies": {
