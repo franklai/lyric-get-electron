@@ -67,9 +67,15 @@ app.on("activate", () => {
 ipcMain.on("asynchronous-message", (event, arg) => {
   console.log(arg); // prints "ping"
 
-  engine.get_full(arg).then((lyric) => {
-    event.reply("asynchronous-reply", lyric);
-  });
+  engine
+    .get_full(arg)
+    .then((lyric) => {
+      event.reply("asynchronous-reply", lyric);
+    })
+    .catch((reason) => {
+      console.log(reason);
+      event.reply("asynchronous-reply", reason);
+    });
 });
 
 // In this file you can include the rest of your app's specific main process
