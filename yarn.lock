@@ -1519,8 +1519,8 @@ lru-cache@^7.7.1:
   integrity sha512-jumlc0BIUrS3qJGgIkWZsyfAM7NCWiBcCDhnd+3NNM5KbBmLTgHVfWBcg6W+rLUsIpzpERPsvwUP7CckAQSOoA==
 
 "lyric-get-js@https://github.com/franklai/lyric-get-js":
-  version "2024.12.28"
-  resolved "https://github.com/franklai/lyric-get-js#3daf2d4d2297057f71bcdc435e4f899925925cab"
+  version "2025.3.22"
+  resolved "https://github.com/franklai/lyric-get-js#00b2c8a6dacd165436d94884563669ead7f71197"
   dependencies:
     html-entities "^2.5.2"
     iconv-lite "^0.6.3"
